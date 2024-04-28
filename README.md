@@ -22,3 +22,9 @@ or make it float with superscript like this : <sup> up here </sup>
 You can display an image by adding ! and wrapping the alt text in [ ]. Alt text is a short text equivalent of the information in the image. Then, wrap the link for the image in parentheses ().
 
 ![michael park logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqpaF8XvSSorbyfeAhpX2S_Yd70dOJaoAsy6JEYFX&s)
+
+You can add emoji to your writing by typing :EMOJICODE:, a colon followed by the name of the emoji.
+
+This looks nice! :shipit:
+
+
