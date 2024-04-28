@@ -40,5 +40,5 @@ You can also create a Markdown hyperlink by highlighting the text and using the 
 
 This link was made  using [javascript compiler online](https://playcode.io/javascript-compiler).
 
-I also made this and uploaded it to this website through the link [hello world](project/index.html)
+I also made this and uploaded it to this website through the link [hello world](https://mpscam.github.io/helloworld/)
 
