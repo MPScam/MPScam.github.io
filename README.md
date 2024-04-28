@@ -25,7 +25,7 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Alt text 
 
 You can add emoji to your writing by typing :EMOJICODE:, a colon followed by the name of the emoji.
 
-This looks nice! :shipit:
+This looks nice! 👍
 
 You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
 /<!--  ignore this stuff here /-->
