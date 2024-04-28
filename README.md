@@ -34,3 +34,11 @@ You can tell GitHub to hide content from the rendered Markdown by placing the co
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character. this key is the one above the enter key. make sure you use the right one.
 
 
+You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
+
+You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V.
+
+This link was made  using [javascript compiler online](https://playcode.io/javascript-compiler).
+
+I also made this and uploaded it to this website through the link [hell world](project/index.html)
+
