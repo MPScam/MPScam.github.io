@@ -2,10 +2,15 @@
 
 # This is the home page of Camerons githuib for teaching
 
--[x] make github login
--[x] add a header to my page
--[x] add an image banner
+- [x] make github login
+- [x] add a header to my page
+- [x] add an image banner
 
+\- \[ \] make github login
+
+\- \[ \] add a header to my page
+
+\-[ \] add an image banner
 
 
 ### Here are some links to things we will do / use in future weeks
