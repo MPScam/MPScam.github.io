@@ -103,6 +103,12 @@ To order your list, precede each line with a number.
 3. Ferdinand
 
 
+<details>
+<summary>Links to other stuff</summary>
+
+  [Link to something else](https://mpscam.github.io/RandomNum/)
+</details>
+
 
 [Link to something else](https://mpscam.github.io/RandomNum/)
 
