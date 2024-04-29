@@ -15,18 +15,14 @@ This is a guide to most basic forms of formatting. read through carefully
   
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the hierarchy level and typeface size of the heading.
 
-<details>
-  <summary>Heading examples</summary>
+
   <h1> 1st level header </h1>
   <h2> 2nd level header</h2> 
   <h3> 3rd level header</h3> 
   <h4> 4th level header</h4> 
   <h5> 5th level header</h5>
   <h6> 6th level header</h6>
-</details>
-     
-
-    
+   
 
 
 
