@@ -101,7 +101,9 @@ To order your list, precede each line with a number.
 <details>
 <summary>Links to other stuff</summary>
 
-  [Random Number](https://mpscam.github.io/RandomNum/)
+Here are some links to things we will do / use in future weeks
+
+[Random Number](https://mpscam.github.io/RandomNum/)
 
 <!--
 This is a guide to most basic forms of formatting. read through carefully
