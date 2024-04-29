@@ -4,12 +4,7 @@
 
 ### These are some things that we will cover this first week. Peruse at your own discretion. I will cover most of the basics and some of the more intermediate and advanced work we will need to do directly.
 
-<!--
-This is a guide to most basic forms of formatting. read through carefully
 
-[this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the formatting and writing syntax for github in its own markdown langauge
-
--->
 
 
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the hierarchy level and typeface size of the heading.
@@ -106,11 +101,19 @@ To order your list, precede each line with a number.
 <details>
 <summary>Links to other stuff</summary>
 
-  [Link to something else](https://mpscam.github.io/RandomNum/)
+  [Random Number](https://mpscam.github.io/RandomNum/)
+
+<!--
+This is a guide to most basic forms of formatting. read through carefully
+
+[this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the formatting and writing syntax for github in its own markdown langauge
+
+-->
+  
 </details>
 
 
-[Link to something else](https://mpscam.github.io/RandomNum/)
+
 
 
 
