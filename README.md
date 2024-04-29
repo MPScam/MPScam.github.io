@@ -101,7 +101,10 @@ To order your list, precede each line with a number.
 <details>
 <summary>Links to other stuff</summary>
 
-Here are some links to things we will do / use in future weeks
+
+# Here are some links to things we will do / use in future weeks
+
+
 
 [Random Number](https://mpscam.github.io/RandomNum/)
 
