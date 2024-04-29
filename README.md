@@ -8,11 +8,10 @@
 This is a guide to most basic forms of formatting. read through carefully
 
 [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the formatting and writing syntax for github in its own markdown langauge
+
 -->
 
-<details>
-<summary><h2>Formatting texts</h2></summary>
-  
+
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the hierarchy level and typeface size of the heading.
 
 
@@ -32,11 +31,11 @@ To create a heading, add one to six # symbols before your heading text. The numb
 Bold, italics, strikethroughs are all doubled expressions immedieately before and after your text
 For example:
 
-\**bold**
+\*\*bold\*\*
 
-\*italics*
+\*italics\*
 
-\~~strikethrough~~
+\~\~strikethrough\~\~
 
 ### you can also <sup>Superscript</sup> and <sub>Subscript</sub> your text with :
 
@@ -54,11 +53,6 @@ Text that is not a quote
 
 > Text that is a quote
 
-</details>
-
-<details>
-  <summary><h2>Customization</h2></summary>
-  
 
 ### emojis
 
@@ -85,11 +79,11 @@ you can add a list to your page pretty easily
 You can make an unordered list by preceding one or more lines of text with -, *, or +.
 
 
-/- Dave
+\- Dave
 
-/* Mark
+\* Mark
 
-/+ Grognar
+\+ Grognar
 
 
 - Dave
@@ -107,7 +101,6 @@ To order your list, precede each line with a number.
 1. Steve
 2. barry
 3. Ferdinand
-</details>
 
 
 
