@@ -21,6 +21,8 @@
 
 [cats and frogs](https://mpscam.github.io/helloworld/)
 
+[html cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+
 <!--
 This is a guide to most basic forms of formatting. read through carefully
 
