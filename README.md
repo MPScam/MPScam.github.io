@@ -5,12 +5,9 @@
 - [x] make github login
 - [x] add a header to my page
 - [x] add an image banner
-
-\- \[ \] make github login
-
-\- \[ \] add a header to my page
-
-\-[ \] add an image banner
+- [x] make 2x repository, one for home page, one for hello world
+- [x] add a link to my hello world webpage
+- [ ] add color to my hello world web page. 
 
 
 ### Here are some links to things we will do / use in future weeks
