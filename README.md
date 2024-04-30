@@ -34,7 +34,7 @@
 
 [Max](https://skuxdlx.github.io)
 
-[Catlin](https://chocomelody.github.io)
+[Catlin](https://chocomelody1.github.io)
 
 [Riot](https://rosie080.github.io)
 
@@ -52,7 +52,7 @@
 
 [Marie](https://mariee2024.github.io)
 
-[Noah](https://noahr.github.io)
+[Noah](https://n0ahr.github.io)
 
 [Josh](https://melonmuncher911.github.io)
 
