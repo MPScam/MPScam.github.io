@@ -31,39 +31,39 @@ This is a guide to most basic forms of formatting. read through carefully
 
 ### Class website list.
 
-[sam](malachiscute.github.io)
+[sam](https://malachiscute.github.io)
 
-[Edwinn](Edwinnwong.github.io)
+[Edwinn](https://Edwinnwong.github.io)
 
-[Max](skuxdlx.github.io)
+[Max](https://skuxdlx.github.io)
 
-[Catlin](chocomelody.github.io)
+[Catlin](https://chocomelody.github.io)
 
-[anon](rosie080.github.io)
+[anon](https://rosie080.github.io)
 
-[Violet](altoclef24.github.io)
+[Violet](https://altoclef24.github.io)
 
-[Grace](gibbons07.github.io)
+[Grace](https://gibbons07.github.io)
 
-[Mia](koikoiyooniverse.github.io)
+[Mia](https://koikoiyooniverse.github.io)
 
-[Amelia](fartingwizard.github.io)
+[Amelia](https://fartingwizard.github.io)
 
-[Erica](ericalp2024.github.io)
+[Erica](https://ericalp2024.github.io)
 
-[Aurelia](aurelia2024.github.io)
+[Aurelia](https://aurelia2024.github.io)
 
-[Marie](mariee2024.github.io)
+[Marie](https://mariee2024.github.io)
 
-[Noah](noahr.github.io)
+[Noah](https://noahr.github.io)
 
-[Josh](melonmuncher911.github.io)
+[Josh](https://melonmuncher911.github.io)
 
-[Rebecca](4ur0.github.io)
+[Rebecca](https://4ur0.github.io)
 
-[Finn](finnwurray.github.io)
+[Finn](https://finnwurray.github.io)
 
-[Nayu](nhazuki.github.io)
+[Nayu](https://nhazuki.github.io)
   
 
 
