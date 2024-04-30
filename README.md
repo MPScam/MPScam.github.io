@@ -23,12 +23,12 @@
 
 [html cheat sheet](https://www.w3schools.com/html/html_intro.asp)
 
-<!--
+
 This is a guide to most basic forms of formatting. read through carefully
 
 [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the formatting and writing syntax for github in its own markdown langauge
 
--->
+
   
 
 
