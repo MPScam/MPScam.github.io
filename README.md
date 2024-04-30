@@ -19,7 +19,7 @@
 
 [Random Number](https://mpscam.github.io/RandomNum/)
 
-[CATS](https://mpscam.github.io/TestHtml/)
+[cats and frogs](https://mpscam.github.io/helloworld/)
 
 <!--
 This is a guide to most basic forms of formatting. read through carefully
