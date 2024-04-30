@@ -15,11 +15,11 @@
 
 ### Here are some links to things we will do / use in future weeks
 
-[Hello World](https://mpscam.github.io/helloworld/)
+
 
 [Random Number](https://mpscam.github.io/RandomNum/)
 
-[cats and frogs](https://mpscam.github.io/helloworld/)
+[Hello World](https://mpscam.github.io/helloworld/)
 
 [html cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 
