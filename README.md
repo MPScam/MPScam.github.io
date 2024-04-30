@@ -21,7 +21,7 @@
 
 [Hello World](https://mpscam.github.io/helloworld/)
 
-[html cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+[html cheat sheet](https://www.w3schools.com/html/html_intro.asp)
 
 <!--
 This is a guide to most basic forms of formatting. read through carefully
