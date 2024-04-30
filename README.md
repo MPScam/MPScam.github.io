@@ -7,6 +7,7 @@
 - [x] add an image banner
 - [x] make 2x repository, one for home page, one for hello world
 - [x] add a link to my hello world webpage
+- [ ] (optional) add to index.html of HelloWorld
 - [ ] add color to my hello world web page. 
 
 
@@ -60,6 +61,8 @@
 [Finn](https://finnwurray.github.io)
 
 [Nayu](https://nhazuki.github.io)
+
+[Malachi](https://ihcalamseivad.github.io)
   
 
 
