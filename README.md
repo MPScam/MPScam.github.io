@@ -29,8 +29,7 @@ This is a guide to most basic forms of formatting. read through carefully
 [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the formatting and writing syntax for github in its own markdown langauge
 
 
-<details>
-<summary>Class website list</summary>
+### Class website list.
 
 [sam](malachiscute.github.io)
 
@@ -66,7 +65,7 @@ This is a guide to most basic forms of formatting. read through carefully
 
 [Nayu](nhazuki.github.io)
   
-</details>
+
 
 
 
