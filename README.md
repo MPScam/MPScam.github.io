@@ -8,7 +8,8 @@
 - [x] make 2x repository, one for home page, one for hello world
 - [x] add a link to my hello world webpage
 - [ ] (optional) add to index.html of HelloWorld
-- [ ] add color to my hello world web page. 
+- [x] add style to your hello world page with background colors, text color, fonts, and font size
+- [x] center your text on your hello world page.
 
 
 ### Here are some links to things we will do / use in future weeks
