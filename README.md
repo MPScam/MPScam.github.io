@@ -10,6 +10,10 @@
 - [ ] (optional) add to index.html of HelloWorld
 - [x] add style to your hello world page with background colors, text color, fonts, and font size
 - [x] center your text on your hello world page.
+- [ ] add an image/s to your hello world page
+- [ ] add a hyperlink back to your main webpage on your hello world webpage
+
+
 
 
 ### Here are some links to things we will do / use in future weeks
