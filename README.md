@@ -12,6 +12,7 @@
 - [x] center your text on your hello world page.
 - [ ] add an image/s to your hello world page
 - [ ] add a hyperlink back to your main webpage on your hello world webpage
+- [ ] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
 
 
 
