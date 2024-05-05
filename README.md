@@ -16,6 +16,12 @@
 
 
 
+## Tutorial for Monday. 
+
+Follow this tutorial to add some script functionality to your webpage. You can also work on creating you other repos and html files for the other pages of your website. 
+
+[MONDAYS work](https://www.tutorialspoint.com/html/html_scripts.htm)
+
 
 ### Here are some links to things we will do / use in future weeks
 
