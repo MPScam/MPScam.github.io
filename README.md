@@ -22,6 +22,10 @@ Follow this tutorial to add some script functionality to your webpage. You can a
 
 [MONDAYS work](https://www.tutorialspoint.com/html/html_scripts.htm)
 
+<!-- 
+https://www.youtube.com/watch?v=dcTiiYuC2AM&ab_channel=PixemWeb
+-->
+
 
 ### Here are some links to things we will do / use in future weeks
 
