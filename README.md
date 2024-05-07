@@ -26,15 +26,23 @@ Follow this tutorial to add some script functionality to your webpage. You can a
 https://www.youtube.com/watch?v=dcTiiYuC2AM&ab_channel=PixemWeb
 -->
 
+## Tutorial for Tuesday. 
 
-### Here are some links to things we will do / use in future weeks
+There are a few things you can do today.
+ - [] first is to create a new repository for the rubric. you will need to copy paste this into the body of your index.html file 
+```
+<iframe width="700" height="900" frameborder="0" scrolling="no" src="https://michaelparkschoolnz-my.sharepoint.com/personal/camerona_michaelpark_school_nz/_layouts/15/Doc.aspx?sourcedoc={be1f03f5-3e93-4df6-b78a-615959a751ca}&action=embedview&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE15&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+```
 
 
 
-[Random Number](https://mpscam.github.io/RandomNum/)
 
+### Links you may need/ look at
 [Hello World](https://mpscam.github.io/helloworld/)
 
+[Rubric](https://mpscam.github.io/TestHtml/)
+
+[Random Number](https://mpscam.github.io/RandomNum/)
 [html cheat sheet](https://www.w3schools.com/html/html_intro.asp)
 
 
