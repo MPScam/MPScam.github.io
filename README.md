@@ -33,6 +33,12 @@ There are a few things you can do today.
 ```
 <iframe width="700" height="900" frameborder="0" scrolling="no" src="https://michaelparkschoolnz-my.sharepoint.com/personal/camerona_michaelpark_school_nz/_layouts/15/Doc.aspx?sourcedoc={be1f03f5-3e93-4df6-b78a-615959a751ca}&action=embedview&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE15&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 ```
+- [] once you have created this repo and added it to your website, it would be extremely wise to start tailoring your work to reflect the assessment criteria of the rubric. Please read through the rubric and make sensible choices that will aid you in improving your design choices to make your website as accesible as possible.
+
+some things you can do are to peruse the w3schools link to upskill your css skills to make your pages more dynamically interesting. this link [here](https://www.w3schools.com/css/default.asp) will help you. I recommend looking through the advanced section. 
+
+You may also want to follow [this](https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,equal%20space%20between%20each%20image.) tutorial on how to space images equally apart for you home link + a left/right navigation between your webpages. 
+
 
 
 
@@ -43,6 +49,7 @@ There are a few things you can do today.
 [Rubric](https://mpscam.github.io/TestHtml/)
 
 [Random Number](https://mpscam.github.io/RandomNum/)
+
 [html cheat sheet](https://www.w3schools.com/html/html_intro.asp)
 
 
