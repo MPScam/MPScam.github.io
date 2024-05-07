@@ -10,9 +10,10 @@
 - [ ] (optional) add to index.html of HelloWorld
 - [x] add style to your hello world page with background colors, text color, fonts, and font size
 - [x] center your text on your hello world page.
-- [ ] add an image/s to your hello world page
-- [ ] add a hyperlink back to your main webpage on your hello world webpage
-- [ ] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
+- [x] add an image/s to your hello world page
+- [x] add a hyperlink back to your main webpage on your hello world webpage
+- [x] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
+- [ ] add the rubric webapge to your main page of your website. 
 
 
 
@@ -26,14 +27,13 @@ Follow this tutorial to add some script functionality to your webpage. You can a
 https://www.youtube.com/watch?v=dcTiiYuC2AM&ab_channel=PixemWeb
 -->
 
-## Tutorial for Tuesday. 
+## Tutorial for Wednesday
 
 There are a few things you can do today.
- - [] first is to create a new repository for the rubric. you will need to copy paste this into the body of your index.html file 
-```
-<iframe width="700" height="900" frameborder="0" scrolling="no" src="https://michaelparkschoolnz-my.sharepoint.com/:x:/g/personal/camerona_michaelpark_school_nz/EfUDH76TPvZNt4phWVmnUcoBuVF8OR8Md_ehj4dgsx-OTA?e=DdFBQN"></iframe>
-```
-- [] once you have created this repo and added it to your website, it would be extremely wise to start tailoring your work to reflect the assessment criteria of the rubric. Please read through the rubric and make sensible choices that will aid you in improving your design choices to make your website as accesible as possible.
+ - [] first is to create a new webpage for the rubric. you will need to make a new repository and an index.html file. you can inspect my one from [here](https://mpscam.github.io/TestHtml/) you can copy my table as it is by pressing crtl + U, or right clicking and choosing "view page source" to copy my table code. THIS MUST BE DONE BEFORE ANY OTHER WORK TODAY. 
+   
+
+ once you have created this repo and added it to your website, it would be extremely wise to start tailoring your work to reflect the assessment criteria of the rubric. Please read through the rubric and make sensible choices that will aid you in improving your design choices to make your website as accesible as possible.
 
 some things you can do are to peruse the w3schools link to upskill your css skills to make your pages more dynamically interesting. this link [here](https://www.w3schools.com/css/default.asp) will help you. I recommend looking through the advanced section. 
 
