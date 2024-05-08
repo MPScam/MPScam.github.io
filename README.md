@@ -59,7 +59,7 @@ you may also notice that i have certain elements like all my
  ```
  <div>
 ```
- tag. this is what is called a class. if you want certain elements to always be the same like my navigation bar at the bottom of each frog page, you can seee that in my stlesheet i have decleared a class with the syntax:
+ tag. this is what is called a class. if you want certain elements to always be the same like my navigation bar at the bottom of each frog page, you can see that in my stylesheet i have decleared a class with the syntax:
  ```
  .classname {
 
