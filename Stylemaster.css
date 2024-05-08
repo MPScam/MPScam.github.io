@@ -1,0 +1,56 @@
+
+h1 {
+  color: #fe218b;
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-size: 60px;
+  background-image: linear-gradient(to bottom, #eca0ff, #e9bbff, #ebd3ff, #f2eaff, #ffffff);
+  
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+  
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif; 
+ background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+}
+h4 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;   
+  background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+}
+h5 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;  
+  background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+}
+h6 {
+  color: black;
+  text-align: center;
+  font-family: "Garamond" , serif;
+  background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+}
+p {
+  color: #4C0334;  
+  font-family: "Courier New", Times, serif;
+  font-size: 18px;
+  
+  
+}
+
+body {
+  
+}
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 45em;
+}
