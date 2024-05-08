@@ -51,9 +51,9 @@ Please keep a checklist on your homepage, that shows what you have achieved and 
 
 
 ### Links you may need/ look at
-[Hello World](https://mpscam.github.io/helloworld/)
+[Hello World](https://mpscam.github.io/DianeFrog/)
 
-[Rubric](https://mpscam.github.io/TestHtml/)
+[Rubric](https://mpscam.github.io/Rubric/)
 
 [Random Number](https://mpscam.github.io/RandomNum/)
 
