@@ -1,6 +1,6 @@
 ![Michael Park Logo](https://michaelpark.school.nz/wp-content/uploads/2021/06/mps-logo.svg)
 
-# This is the home page of Camerons githuib for teaching
+# This is the home page of Cameron's githuib for teaching
 
 - [x] make github login
 - [x] add a header to my page
@@ -13,7 +13,8 @@
 - [x] add an image/s to your hello world page
 - [x] add a hyperlink back to your main webpage on your hello world webpage
 - [x] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
-- [ ] add the rubric webapge to your main page of your website. 
+- [x] add the rubric webapge to your main page of your website.
+- [ ] add a paragraph about your chosen topic. 
 
 
 
@@ -57,6 +58,7 @@ Please keep a checklist on your homepage, that shows what you have achieved and 
 [Random Number](https://mpscam.github.io/RandomNum/)
 
 [html cheat sheet](https://www.w3schools.com/html/html_intro.asp)
+
 
 
 
