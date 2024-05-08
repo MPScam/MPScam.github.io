@@ -39,7 +39,13 @@ some things you can do are to peruse the w3schools link to upskill your css skil
 
 You may also want to follow [this](https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,equal%20space%20between%20each%20image.) tutorial on how to space images equally apart for you home link + a left/right navigation between your webpages. Remember that the css code needs to go into a ``` <style> </style> ``` tag, and the html code needs to go where it will be on your webpage. 
 
+## Tutorial for Thursday
 
+Excellent work to all of you who've been using your time well while I am sick. I have passed on a list to your releiver of those who have yet to add the rubric to your website. Please do that before you move onto anything else. 
+
+For those of you who have uploaded your rubric, you have essentially all the skills and relative html know-how to figure something new out on your own. This is a crucial skill for working in a digital space. Almost every problem you will encounter has been solved before, if not in the exact context you are experiencing it. You have the foundation of your website now you just need to build it. 
+
+Please keep a checklist on your homepage, that shows what you have achieved and what is still working/not working. Please also add a small paragraph on your homepage about hwat your chosen topic is that you are making your website about. 
 
 
 
