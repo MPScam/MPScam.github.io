@@ -54,3 +54,13 @@ body {
     text-align: justify;
     width: 45em;
 }
+.image-row {
+  display: flex;
+  justify-content: space-between; /* this will add equal space between each image */
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: linear-gradient(to bottom, #eca0ff, #94c6ff, #00e3ff, #00f6ff, #84ffc9);
+}
