@@ -51,7 +51,7 @@ Please keep a checklist on your homepage, that shows what you have achieved and 
 
 
 ### Links you may need/ look at
-[Hello World](https://mpscam.github.io/DianeFrog/)
+[FROGS](https://mpscam.github.io/DianeFrog/)
 
 [Rubric](https://mpscam.github.io/Rubric/)
 
