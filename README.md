@@ -38,7 +38,11 @@ There are a few things you can do today.
 
 some things you can do are to peruse the w3schools link to upskill your css skills to make your pages more dynamically interesting. this link [here](https://www.w3schools.com/css/default.asp) will help you. I recommend looking through the advanced section. 
 
-You may also want to follow [this](https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,equal%20space%20between%20each%20image.) tutorial on how to space images equally apart for you home link + a left/right navigation between your webpages. Remember that the css code needs to go into a ``` <style> </style> ``` tag, and the html code needs to go where it will be on your webpage. 
+You may also want to follow [this](https://www.shecodes.io/athena/8356-align-images-horizontally-with-equal-space-in-html-css#:~:text=By%20setting%20the%20parent%20element,equal%20space%20between%20each%20image.) tutorial on how to space images equally apart for you home link + a left/right navigation between your webpages. Remember that the css code needs to go into a
+```
+<style> </style>
+``` 
+tag, and the html code needs to go where it will be on your webpage. 
 
 ## Tutorial for Thursday
 
@@ -47,13 +51,27 @@ Excellent work to all of you who've been using your time well while I am sick. I
 For those of you who are starting to make all of your webpages, host your stylesheet.css file in the root of your main website Username.github.io.  You can then call it in each of your new index.html files by using its address, username.github.io/stylesheetname.css
 you can look through my frogs webpages to see that all of my css formatting is now all in exactly one file but used everywhere, this means that one change to the stylesheet now affects all webpages. It is much easier to manage this way. 
 
-you may also notice that i have certain elements like all my ```<p>``` tags called in a ```<div> tag. this is what is called a class. if you want certain elements to always be the same like my navigation bar at the bottom of each frog page, you can seee that in my stlesheet i have decleared a class with the syntax: ``` .classname {
+you may also notice that i have certain elements like all my
+```
+<p>
+```
+ tags called in a 
+ ```
+ <div>
+```
+ tag. this is what is called a class. if you want certain elements to always be the same like my navigation bar at the bottom of each frog page, you can seee that in my stlesheet i have decleared a class with the syntax:
+ ```
+ .classname {
 
 
 } 
 ```
 
-this means that when i call that class in a ```<div>``` tag i can apply those changes just there and then. all my paragraph tags are centered and justified, so that the text is in a consistent band on each screen. These can be very useful if you use them well. Have a experiment if you are feeling adventurous
+this means that when i call that class in a 
+```
+<div>
+```
+tag i can apply those changes just there and then. all my paragraph tags are centered and justified, so that the text is in a consistent band on each screen. These can be very useful if you use them well. Have a experiment if you are feeling adventurous
 
 
 For those of you who have uploaded your rubric, you have essentially all the skills and relative html know-how to figure something new out on your own. This is a crucial skill for working in a digital space. Almost every problem you will encounter has been solved before, if not in the exact context you are experiencing it. You have the foundation of your website now you just need to build it. 
