@@ -64,22 +64,3 @@ body {
   right: 0;
   background-image: linear-gradient(to bottom, #eca0ff, #94c6ff, #00e3ff, #00f6ff, #84ffc9);
 }
-
-#leftArrow {
-  width:30;
-  height:30;
-}
-#leftArrow:hover{
-  content: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6e0796cc-05aa-40e7-804a-686b9bdc79fd/d92x0zu-ab888374-339b-432d-b9cc-96fd161938be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlMDc5NmNjLTA1YWEtNDBlNy04MDRhLTY4NmI5YmRjNzlmZFwvZDkyeDB6dS1hYjg4ODM3NC0zMzliLTQzMmQtYjljYy05NmZkMTYxOTM4YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IfJwLknAsMlGOnzOYQGBaHLJlnjZMKKBatSJ_JP3ut0")
-  width: 30;
-  height: 30;
-}
-#rightArrow{
-  width:30;
-  height:30;  
-}
-#rightArrow:hover{
-  content: url("https://art.pixilart.com/806ad13906715dd.gif")
-  width:30;
-  height:30;
-}
