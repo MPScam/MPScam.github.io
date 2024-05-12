@@ -1,4 +1,4 @@
-
+<!-- FORMATTING FOR TEXT-->
 h1 {
   color: #fe218b;
   text-align: center;
@@ -49,13 +49,15 @@ p {
 body {
   padding-bottom: 100px;
 }
+
+<!--  A CLASS TO JUSTIFY AND CENTER TEXT-->
 .center-justified {
     margin: 0 auto;
     text-align: justify;
     width: 45em;
 }
 
-<!--
+<!-- A REDUNDANT CLASS FOR THE OLD IMAGE STYLE NAV BAR. 
 .image-row {
   display: flex;
   justify-content: space-between; /* this will add equal space between each image */
@@ -68,6 +70,8 @@ body {
 }
 -->
 
+
+<!-- THESE CLASSES ARE FOR THE NEW NAVBAR, YOU CAN BORROW FROM W3 SCHOOLS TO MAKE YOUR OWN -->
 ul {
   list-style-type: none;
   margin: 0;
@@ -93,6 +97,7 @@ li a {
 
 li a:hover:not(.active), .dropdown:hover .dropbtn {
   background-color: #C8A2C8;
+  bottom: 100%;
 }
 
 .active {
@@ -109,5 +114,5 @@ li.dropdown {
   background-color: #eca0ff;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: -1;
+  z-index: 1;
 }
