@@ -1,4 +1,4 @@
-<!-- FORMATTING FOR TEXT-->
+
 h1 {
   color: #fe218b;
   text-align: center;
@@ -50,14 +50,13 @@ body {
   padding-bottom: 100px;
 }
 
-<!--  A CLASS TO JUSTIFY AND CENTER TEXT-->
 .center-justified {
     margin: 0 auto;
     text-align: justify;
     width: 45em;
 }
 
-<!-- A REDUNDANT CLASS FOR THE OLD IMAGE STYLE NAV BAR. 
+<!-- 
 .image-row {
   display: flex;
   justify-content: space-between; /* this will add equal space between each image */
@@ -71,7 +70,7 @@ body {
 -->
 
 
-<!-- THESE CLASSES ARE FOR THE NEW NAVBAR, YOU CAN BORROW FROM W3 SCHOOLS TO MAKE YOUR OWN -->
+
 ul {
   list-style-type: none;
   margin: 0;
