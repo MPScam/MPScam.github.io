@@ -134,6 +134,8 @@ Please keep a checklist on your homepage, that shows what you have achieved and 
 [Malachi](https://ihcalamseivad.github.io)
 
 [Sylver](https://explodingbananas.github.io)
+
+[Sofia](https://subject3393.github.io/)
   
 
 
