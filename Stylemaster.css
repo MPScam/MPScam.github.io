@@ -54,6 +54,8 @@ body {
     text-align: justify;
     width: 45em;
 }
+
+<!--
 .image-row {
   display: flex;
   justify-content: space-between; /* this will add equal space between each image */
@@ -63,4 +65,36 @@ body {
   left: 0;
   right: 0;
   background-image: linear-gradient(to bottom, #ffffff, #dfe9fb, #acd8f3, #68c9de, #01b9b7);
+}
+-->
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;  
+  background-image: linear-gradient(to bottom, #ffffff, #dfe9fb, #acd8f3, #68c9de, #01b9b7);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #C8A2C8;
+}
+
+.active {
+  background-color: #fe218b;
 }
