@@ -2,23 +2,9 @@
 
 # This is the home page of Cameron's githuib for teaching
 
-- [x] make github login
-- [x] add a header to my page
-- [x] add an image banner
-- [x] make 2x repository, one for home page, one for hello world
-- [x] add a link to my hello world webpage
-- [ ] (optional) add to index.html of HelloWorld
-- [x] add style to your hello world page with background colors, text color, fonts, and font size
-- [x] center your text on your hello world page.
-- [x] add an image/s to your hello world page
-- [x] add a hyperlink back to your main webpage on your hello world webpage
-- [x] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages. )
-- [x] add the rubric webapge to your main page of your website.
-- [ ] add a paragraph about your chosen topic. 
+- [x] you can use a checklist to keep track of things you want to accomplish.
 
-
-
-## Tutorial for Monday. 
+## Tutorial for Monday. (This is redundant.)
 
 Follow this tutorial to add some script functionality to your webpage. You can also work on creating you other repos and html files for the other pages of your website. 
 
@@ -28,7 +14,7 @@ Follow this tutorial to add some script functionality to your webpage. You can a
 https://www.youtube.com/watch?v=dcTiiYuC2AM&ab_channel=PixemWeb
 -->
 
-## Tutorial for Wednesday
+## Tutorial for Wednesday (You will need to do this as part of your assignment)
 
 There are a few things you can do today.
  - [] first is to create a new webpage for the rubric. you will need to make a new repository and an index.html file. you can inspect my one from [here](https://mpscam.github.io/TestHtml/) you can copy my table as it is by pressing crtl + U, or right clicking and choosing "view page source" to copy my table code. THIS MUST BE DONE BEFORE ANY OTHER WORK TODAY. 
@@ -85,14 +71,15 @@ Please keep a checklist on your homepage, that shows what you have achieved and 
 
 [Rubric](https://mpscam.github.io/Rubric/)
 
-[Random Number](https://mpscam.github.io/RandomNum/)
-
 [html cheat sheet](https://www.w3schools.com/html/html_intro.asp)
 
 
 
 
 [Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to the basics of formatting and writing syntax for github in its own markdown langauge
+
+[html measurements](https://www.w3schools.com/cssref/css_units.php)
+[navbar](https://www.w3schools.com/css/css_navbar.asp)
 
 
 ### Class website list.
