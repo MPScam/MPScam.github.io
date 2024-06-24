@@ -1,7 +1,7 @@
 Hi How are you
 
 
-![test](https://mpscam.github.io/gorillaglasses.jpeg)
+![test](gorillaglasses.jpg)
 
 [class9 page](https://mpscam.github.io/TEST.html)
 
