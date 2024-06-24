@@ -34,7 +34,7 @@ Hi How are you
 
 [Callum](https://devious-ladybug.github.io)
 
-[Boneito](https://bonitothecoder.github.io)
+[Boringito](https://bonitothecoder.github.io)
 
 [Jonothan](https://jonothan834.github.io)
 
