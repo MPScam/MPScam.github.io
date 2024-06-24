@@ -47,3 +47,7 @@ Hi How are you
 [Byron](https://puppypunter587.github.io)
 
 [Isaac](https://isakensmi.github.io)
+
+[Aurielle](htpps://babybeer15.github.io)
+
+[Klara](https://baldman26.github.io)
