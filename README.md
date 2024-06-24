@@ -34,7 +34,7 @@ Hi How are you
 
 [Callum](https://devious-ladybug.github.io)
 
-[Boringito](https://bonitothecoder.github.io)
+[Boooooo](https://bonitothecoder.github.io)
 
 [Jonothan](https://jonothan834.github.io)
 
@@ -48,6 +48,6 @@ Hi How are you
 
 [Isaac](https://isakensmi.github.io)
 
-[Aurielle](htpps://babybeer15.github.io)
+[Aurielle](https://babybeer15.github.io)
 
 [Klara](https://baldman26.github.io)
