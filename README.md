@@ -1,7 +1,3 @@
-![frog](frog.png)
-
-
-
 Welcome to the class 9 ~~disaster~~ digital technology main lesson
 
 
