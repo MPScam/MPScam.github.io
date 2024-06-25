@@ -7,7 +7,7 @@ Welcome to the class 9 ~~disaster~~ digital technology main lesson
 
 ![test](gorillaglasses.jpg)
 
-[class9 page](https://mpscam.github.io/TEST.html)
+[class9 page](class9.html)
 
 
 ### Class 9 list of websites
