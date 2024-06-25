@@ -7,6 +7,11 @@ Welcome to the class 9 ~~disaster~~ digital technology main lesson
 
 [Beans webpage](https://mpscam.github.io/beans.html)
 
+[History of html & all tags](https://html.com/)
+
+[Html tutorials](https://www.w3schools.com/html/)
+
+
 
 ### Class 9 list of websites
 
