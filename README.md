@@ -5,6 +5,8 @@ Welcome to the class 9 ~~disaster~~ digital technology main lesson
 
 [class9 page](https://mpscam.github.io/class9.html)
 
+[Beans webpage](https://mpscam.github.io/beans.html)
+
 
 ### Class 9 list of websites
 
