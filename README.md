@@ -23,7 +23,7 @@ Welcome to the class 9 ~~disaster~~ digital technology main lesson
 
 [Katja](https://kaka144.github.io)
 
-[Harper](https://pixtt.github.io)
+[Harper](https://pixttt.github.io)
 
 [Ruby R](https://ruru9999.github.io)
 
